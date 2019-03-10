@@ -12,9 +12,9 @@ Main features
 
 * Implementation of the original Thermal Optimal Path method:
 
-- Partition function computed with Numba's JIT to achieve 1000 times speedup over a pure Python implementation
-- Partition function's average path
-- Mean squared error model for correlated and anti-correlated time series
+  - Partition function computed with Numba's JIT to achieve 1000 times speedup over a pure Python implementation
+  - Partition function's average path
+  - Mean squared error model for correlated and anti-correlated time series
 
 Notebooks
 =========
