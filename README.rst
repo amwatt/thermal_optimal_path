@@ -2,7 +2,7 @@
 About Thermal Optimal Path
 ==========================
 
-The Thermal Optimal Path methods originates from [Non-parametric Determination of Real-Time Lag Structure between Two Time Series: the “Optimal Thermal Causal Path” Method, D. Sornette and  W.-X. Zhou (2004)](https://arxiv.org/abs/cond-mat/0408166).
+The Thermal Optimal Path methods originates from `Non-parametric Determination of Real-Time Lag Structure between Two Time Series: the “Optimal Thermal Causal Path” Method, D.Sornette and  W.-X. Zhou (2004)<https://arxiv.org/abs/cond-mat/0408166)>`_.
 
 It enables dynamic lead/lag analysis between two time series. Borrowed from the statistical physics literature on directed polymers, it is suited for short and noisy time series.
 
