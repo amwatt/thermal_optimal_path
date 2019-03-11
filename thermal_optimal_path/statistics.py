@@ -1,8 +1,10 @@
 import numpy as np
+from numba import jit
 
 from thermal_optimal_path.lattice import iter_lattice
 
 
+@jit
 def average_path(partition_function):
     """ Computes the average path of the partition function. The average includes the values
     set at the boundaries.
